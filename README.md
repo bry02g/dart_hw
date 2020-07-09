@@ -1,7 +1,7 @@
 # dart_hw
 You will be modifying the code snippes provided for each question to match the expected output.
 
-You can run your code online [Dart Pad](https://dartpad.dev/)
+You can run your code online using [Dart Pad](https://dartpad.dev/)
 
 ## Data Types
 [Dart Built In Types Docs](https://dart.dev/guides/language/language-tour#built-in-types)
