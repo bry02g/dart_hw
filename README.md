@@ -30,6 +30,39 @@ false
 ## Variables
 [Dart Variable Types](https://dart.dev/guides/language/language-tour#variables)
 
+```dart
+void main() {
+  //make a variable using var keyword (this infers the type)
+  // var name = "Bobby Boy";
+  // then print the variable
+
+  // make a explicit variable by using it data type 
+  //ex. String name = "Bob";
+  // then print the variable
+
+  // make a dynamic variable that is assigned a string literal (dynamic variables can reassigned any data type)
+  // ex. dynamic name = "Bobby Boi";
+  // then print the variable
+
+  // reassigned the dynamic variable to the value 3.5
+  // the print the variable
+
+  // try doing the same for the other two
+  // YOU SHOULD GET AN ERROR
+  //Error: A value of type 'double' can't be assigned to a variable of type 'String'.
+  // remove the reassignents
+
+  // Only dynamic can be reassigned diffrent data types.
+}
+/* 
+EXPECTED OUTPUT
+Bobby Boy
+Bob
+Bobby Boi
+3.5
+*/
+```
+
 ## Operators
 [Dart Operators Docs](https://dart.dev/guides/language/language-tour#operators)
 
